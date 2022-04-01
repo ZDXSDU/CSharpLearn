@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\bin\Debug\06for循环的嵌套.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\bin\Debug\06for循环的嵌套.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\bin\Debug\06for循环的嵌套.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\obj\Debug\06for循环的嵌套.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\obj\Debug\06for循环的嵌套.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\06for循环的嵌套\obj\Debug\06for循环的嵌套.pdb

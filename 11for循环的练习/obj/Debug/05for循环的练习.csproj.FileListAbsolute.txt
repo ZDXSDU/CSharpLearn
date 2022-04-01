@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\bin\Debug\05for循环的练习.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\bin\Debug\05for循环的练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\bin\Debug\05for循环的练习.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\obj\Debug\05for循环的练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\obj\Debug\05for循环的练习.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\05for循环的练习\obj\Debug\05for循环的练习.csprojResolveAssemblyReference.cache

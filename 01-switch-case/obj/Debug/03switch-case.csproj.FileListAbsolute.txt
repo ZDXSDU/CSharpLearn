@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\bin\Debug\03switch-case.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\bin\Debug\03switch-case.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\bin\Debug\03switch-case.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\obj\Debug\03switch-case.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\obj\Debug\03switch-case.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\03switch-case\obj\Debug\03switch-case.pdb

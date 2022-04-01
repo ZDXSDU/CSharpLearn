@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\bin\Debug\10continue.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\bin\Debug\10continue.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\bin\Debug\10continue.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\obj\Debug\10continue.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\obj\Debug\10continue.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\10continue\obj\Debug\10continue.pdb

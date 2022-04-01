@@ -1,0 +1,5 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\02调试\bin\Debug\02调试.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\02调试\bin\Debug\02调试.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\02调试\bin\Debug\02调试.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\02调试\obj\Debug\02调试.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\02调试\obj\Debug\02调试.pdb

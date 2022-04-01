@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\bin\Debug\04for循环的正序输出和倒序输出.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\bin\Debug\04for循环的正序输出和倒序输出.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\bin\Debug\04for循环的正序输出和倒序输出.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\obj\Debug\04for循环的正序输出和倒序输出.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\obj\Debug\04for循环的正序输出和倒序输出.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\04for循环的正序输出和倒序输出\obj\Debug\04for循环的正序输出和倒序输出.pdb

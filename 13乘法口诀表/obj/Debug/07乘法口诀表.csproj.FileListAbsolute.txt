@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\bin\Debug\07乘法口诀表.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\bin\Debug\07乘法口诀表.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\bin\Debug\07乘法口诀表.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\obj\Debug\07乘法口诀表.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\obj\Debug\07乘法口诀表.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\07乘法口诀表\obj\Debug\07乘法口诀表.csprojResolveAssemblyReference.cache

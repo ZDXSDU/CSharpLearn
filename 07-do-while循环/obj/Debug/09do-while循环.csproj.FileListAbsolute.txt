@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\bin\Debug\09do-while循环.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\bin\Debug\09do-while循环.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\bin\Debug\09do-while循环.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\obj\Debug\09do-while循环.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\obj\Debug\09do-while循环.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第四天\09do-while循环\obj\Debug\09do-while循环.pdb

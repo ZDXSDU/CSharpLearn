@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\bin\Debug\11continue练习.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\bin\Debug\11continue练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\bin\Debug\11continue练习.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\obj\Debug\11continue练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\obj\Debug\11continue练习.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第五天\11continue练习\obj\Debug\11continue练习.csprojResolveAssemblyReference.cache
