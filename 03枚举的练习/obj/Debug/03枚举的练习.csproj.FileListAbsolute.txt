@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\bin\Debug\03枚举的练习.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\bin\Debug\03枚举的练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\bin\Debug\03枚举的练习.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\obj\Debug\03枚举的练习.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\obj\Debug\03枚举的练习.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\03枚举的练习\obj\Debug\03枚举的练习.pdb

@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\bin\Debug\04枚举和int以及string类型之间的转换.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\bin\Debug\04枚举和int以及string类型之间的转换.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\bin\Debug\04枚举和int以及string类型之间的转换.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\04枚举和int以及string类型之间的转换\obj\Debug\04枚举和int以及string类型之间的转换.pdb
