@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\bin\Debug\05结构.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\bin\Debug\05结构.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\bin\Debug\05结构.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\obj\Debug\05结构.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\obj\Debug\05结构.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\05结构\obj\Debug\05结构.pdb
