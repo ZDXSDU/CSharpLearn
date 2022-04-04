@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\bin\Debug\07数组.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\bin\Debug\07数组.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\bin\Debug\07数组.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\obj\Debug\07数组.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\obj\Debug\07数组.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第六天\07数组\obj\Debug\07数组.pdb
